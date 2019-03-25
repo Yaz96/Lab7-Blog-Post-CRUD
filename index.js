@@ -219,6 +219,3 @@ app.listen(8080, () => {
 	console.log('Your app is running in port 8080');
 });
 
-//para postman en cargarlo se queda con la version previa cargada por eso sigue jalando aunque haya un error
-
-//if ( !body.author && !body.title && !body.content && !body.publishDate ){
